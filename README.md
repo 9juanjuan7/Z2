@@ -26,10 +26,3 @@ python3 load-json.py <file_name.json> <port_number>
 ```
 python3 main.py <port-number>
 ```
-
-
-# Names of anyone you have collaborated with (as much as it is allowed within the course policy) or a line saying that you did not collaborate with anyone else.  
-None.
-
-# More detail of any AI tool used.
-None.
